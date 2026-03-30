@@ -20,3 +20,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Removed unused variable declarations
+
+## 2026-03-30
+- Updated .gitignore to exclude build artifacts
+- Removed unused variable declarations
