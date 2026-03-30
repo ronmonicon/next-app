@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-23
 - Bumped patch version
 - Verified API endpoint response schema
+
+## 2026-03-30
+- Investigated performance bottleneck, noted findings
+- Tidied up project structure
+- Pinned dependency versions for reproducibility
