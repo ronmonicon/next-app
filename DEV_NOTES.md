@@ -17,3 +17,6 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Tidied up project structure
 - Pinned dependency versions for reproducibility
+
+## 2026-03-30
+- Removed unused variable declarations
